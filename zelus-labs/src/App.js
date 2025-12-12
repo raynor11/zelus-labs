@@ -5,7 +5,6 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <meta name='impact-site-verification' value='d838e7c4-05ed-4eec-9cb8-5f9f93cb13fc'>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
